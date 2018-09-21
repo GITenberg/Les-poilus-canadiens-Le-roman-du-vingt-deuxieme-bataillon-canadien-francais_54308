@@ -1,11 +1,16 @@
 _repo: Les-poilus-canadiens-Le-roman-du-vingt-deuxieme-bataillon-canadien-francais_54308
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54308-h/images/cover.jpg
 creator:
   author:
     agent_name: Holland, J. A.
     gutenberg_agent_id: '47811'
     url: http://www.gutenberg.org/2009/agents/47811
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54308#Les-poilus-canadiens-Le-roman-du-vingt-deuxieme-bataillon-canadien-francais
 gutenberg_bookshelf: FR La Première Guerre Mondiale, 1914-1918
 gutenberg_issued: '2017-03-08'
 gutenberg_type: Text
